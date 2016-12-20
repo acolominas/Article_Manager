@@ -1,0 +1,5 @@
+﻿El perro come carne
+ESE
+www.fib.com
+perro,carne,animal
+El perro come carne, es un animal como todo animal come carne el gato come carne blanca que es el pescado de color blanca. La carne proviene de los animales

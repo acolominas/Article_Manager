@@ -1,0 +1,4 @@
+articulos
+ES
+500
+50
